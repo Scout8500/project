@@ -1,3 +1,3 @@
 # Git for Github
 
-Checkout
+Checkout!
