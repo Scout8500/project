@@ -1,4 +1,4 @@
-FROM go
+FROM python
 
 WORKDIR /Документы/project
 
