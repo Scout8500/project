@@ -7,5 +7,5 @@ COPY . .
 
 CMD ["python","index.py"]
 
-EXPOSE 3000
+
 
